@@ -1,0 +1,14 @@
+{
+  "title": "AML-BSA Compliance Gaps Brazil-US Corridor (FinCEN + SEC, 2014-2024)",
+  "id": "marinhobusiness/aml-bsa-brazil-us-corridor",
+  "licenses": [{"name": "CC BY 4.0"}],
+  "description": "Processed datasets from FinCEN SAR Statistics and SEC Investment Adviser Statistics supporting the analysis of BSA-LGPD regulatory compliance gaps for U.S. investment advisers with Brazilian client exposure. Companion to SSRN Working Paper (Santos, 2026). ORCID: 0009-0004-6401-3465.",
+  "keywords": ["finance", "regulation", "compliance", "AML", "BSA", "LGPD", "investment-advisers", "brazil", "FinCEN", "SEC"],
+  "collaborators": [],
+  "data": [
+    {"path": "data/processed/fincen_ia_sars_2014_2024.csv", "description": "Investment Adviser SAR filings by year (FinCEN, 2014-2024)"},
+    {"path": "data/processed/fincen_securities_sars_by_state_2014_2024.csv", "description": "Securities/Futures SAR filings by state (FinCEN, 2014-2024)"},
+    {"path": "data/processed/sec_non_us_raum_2017_2023.csv", "description": "Non-US RAUM managed by RIAs (SEC Form ADV, 2017-2023)"},
+    {"path": "data/processed/sec_rias_foreign_inst_2017_2023.csv", "description": "RIAs with Foreign Institution clients (SEC Form ADV, 2017-2023)"}
+  ]
+}
