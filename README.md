@@ -5,7 +5,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6401--3465-brightgreen)](https://orcid.org/0009-0004-6401-3465)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-**Author:** Wederson Marinho dos Santos | Kadima Holding  
+**Author:** Wederson Marinho | Kadima Holding  
 **ORCID:** 0009-0004-6401-3465  
 **Date:** March 2026  
 
@@ -15,7 +15,7 @@
 
 This repository contains the complete data analysis, visualizations, and scoring model supporting the companion paper:
 
-> Santos, W.M. (2026). *LGPD Compliance for U.S. Investment Advisers with Brazilian Client Exposure: Navigating the Regulatory Gap Between the Bank Secrecy Act and Brazil's Data Protection Framework.* SSRN Working Paper. ORCID: 0009-0004-6401-3465.
+> Marinho, W. (2026). *LGPD Compliance for U.S. Investment Advisers with Brazilian Client Exposure: Navigating the Regulatory Gap Between the Bank Secrecy Act and Brazil's Data Protection Framework.* SSRN Working Paper. ORCID: 0009-0004-6401-3465.
 
 The analysis quantifies the empirical scale of the BSA-LGPD compliance gap across four dimensions:
 
@@ -100,8 +100,8 @@ All data is publicly available from official U.S. government sources. No confide
 ## Citation
 
 ```bibtex
-@misc{santos2026aml_github,
-  author       = {Santos, Wederson Marinho dos},
+@misc{marinho2026aml_github,
+  author       = {Marinho, Wederson},
   title        = {AML/BSA Compliance Gaps in the Brazil-U.S. Financial Corridor:
                   Quantifying Regulatory Exposure for SEC-Registered Investment Advisers},
   year         = {2026},
@@ -112,7 +112,7 @@ All data is publicly available from official U.S. government sources. No confide
 ```
 
 **Companion paper (SSRN):**
-Santos, W.M. (2026). LGPD Compliance for U.S. Investment Advisers with Brazilian Client Exposure. SSRN Working Paper. ORCID: 0009-0004-6401-3465.
+Marinho, W. (2026). LGPD Compliance for U.S. Investment Advisers with Brazilian Client Exposure. SSRN Working Paper. ORCID: 0009-0004-6401-3465.
 
 ---
 
@@ -124,7 +124,7 @@ Code: MIT License | Data and figures: CC BY 4.0
 
 ## Contact
 
-Wederson Marinho dos Santos | Kadima Holding  
+Wederson Marinho | Kadima Holding  
 ORCID: [0009-0004-6401-3465](https://orcid.org/0009-0004-6401-3465)  
 LinkedIn: [linkedin.com/in/marinhobusiness](https://linkedin.com/in/marinhobusiness)  
 Email: marinhobusiness@gmail.com
