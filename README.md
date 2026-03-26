@@ -118,7 +118,7 @@ Marinho, W. (2026). LGPD Compliance for U.S. Investment Advisers with Brazilian 
 
 ## License
 
-Code: MIT License | Data and figures: CC BY 4.0  
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to reuse with attribution.
 
 ---
 
